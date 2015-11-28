@@ -56,3 +56,8 @@ We will respect confidentiality requests for the purpose of protecting victims o
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
 If a participant engages in harassing behavior, the elm-electron owners may take any action they deem appropriate, up to and including expulsion from all elm-electron spaces and identification of the participant as a harasser to other elm-electron members or the general public.
+
+-----
+
+This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Geek Feminism community.
+http://geekfeminism.wikia.com/wiki/Community_anti-harassment
