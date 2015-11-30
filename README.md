@@ -4,7 +4,7 @@ This organization is responsible for providing and maintaining Elm-friendly bind
 
 ## Remaining work
 - [ ] Implement source for all modules available in the renderer process
-- [ ] Manually test packages in electron environment
+- [ ] Implement examples that can run in electron
 - [ ] Get native module approval for renderer packages (if this is still required when we get there)
 - [ ] Publish v1.0.0 of renderer modules
 - [ ] Resolve gaps in APIs that require inter-module dependencies (i.e. `nativeImage` and `clipboard.writeImage()`)
